@@ -2,7 +2,7 @@
 
 ![Design preview for the Sunnyside agency landing page coding challenge](./design/desktop-preview.jpg)
 
-Live Solution: (Sunnyside-agency-landing-page)[https://aniru-dh21.github.io/Sunnyside-agency-landing-page/]
+Live Solution: [Sunnyside-agency-landing-page](https://aniru-dh21.github.io/Sunnyside-agency-landing-page/)
 
 ## Welcome! 👋
 
